@@ -1,0 +1,41 @@
+{
+  "updatedAt": "2026-11-01",
+  "items": [
+    {
+      "id": "history-future",
+      "title": "Общая история — общее будущее",
+      "date": "2026-10-25",
+      "category": "Сообщество",
+      "url": "https://koreilbo.com/news/obshchaya-istoriya-obshchee-budushchee/",
+      "source": "Корё ильбо",
+      "art": 0
+    },
+    {
+      "id": "koryo-myths",
+      "title": "Корейские мифы зазвучали на языке корё мар",
+      "date": "2026-10-23",
+      "category": "Культура",
+      "url": "https://koreilbo.com/news/koreyskie-mify-zazvuchali-na-yazyke-korye-mar/",
+      "source": "Корё ильбо",
+      "art": 1
+    },
+    {
+      "id": "books",
+      "title": "Книги, которые мы можем вернуть",
+      "date": "2026-10-27",
+      "category": "Наследие",
+      "url": "https://koreilbo.com/news/knigi-kotorye-my-mozhem-vernut/",
+      "source": "Корё ильбо",
+      "art": 2
+    },
+    {
+      "id": "nobel",
+      "title": "Нобелевские премии 2026 года по естественным наукам",
+      "date": "2026-10-30",
+      "category": "Образование",
+      "url": "https://koreilbo.com/news/",
+      "source": "Корё ильбо",
+      "art": 3
+    }
+  ]
+}
