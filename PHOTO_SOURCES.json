@@ -1,0 +1,34 @@
+{
+  "associationPage": "https://www.koreans.kz/ru",
+  "portraits": {
+    "Цхай Юрий Андреевич": {
+      "file": "./assets/association/chai-urii.webp",
+      "source": "https://www.koreans.kz/images/elements/chai-urii.png"
+    },
+    "Цой Евгений Борисович": {
+      "file": "./assets/association/tsoy-evgenii.webp",
+      "source": "https://www.koreans.kz/images/elements/filials/astana/tsoy-evgenii.png"
+    },
+    "Шин Андрей Антонович": {
+      "file": "./assets/association/shin-andrei.webp",
+      "source": "https://www.koreans.kz/images/elements/filials/almaty/shin-andrei.png"
+    },
+    "Ким Лилия Михайловна": {
+      "file": "./assets/association/kim-liliya.webp",
+      "source": "https://www.koreans.kz/images/elements/filials/karaganda/kim-liliya.png"
+    },
+    "Тю Бэла Владимировна": {
+      "file": "./assets/association/tyu-bella.webp",
+      "source": "https://www.koreans.kz/images/elements/filials/uralsk/tyu-bella.png"
+    },
+    "Пан Юрий Радионович": {
+      "file": "./assets/association/pan-yurii.webp",
+      "source": "https://www.koreans.kz/images/elements/filials/shymkent/pan-yurii.png"
+    }
+  },
+  "kpark": "19 architectural renders supplied by the user",
+  "excludedPortraits": [
+    "Цхай Александра Сергеевна",
+    "Кан Джульетта Игоревна"
+  ]
+}
